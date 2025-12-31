@@ -13,7 +13,7 @@
 ### 🌱 About Me
 - 🎓 Mahasiswa **D4 Teknik Informatika**
 - 🏫 **Universitas Logistik dan Bisnis Internasional**
-- 💻 Fokus pada **Web Development**
+- 💻 Fokus pada **Web Development and data analyst**
 - ✨ Menyukai tampilan **minimalis & estetik**
 
 ---
@@ -39,11 +39,9 @@
 
 ---
 
-### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=ysmndiyah"/>
 
 
----
+
 
 <div align="center">
 
