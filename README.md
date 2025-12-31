@@ -1,16 +1,45 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=9DB2A6&height=200&section=header&text=Hey%20Everyone!&fontSize=56&fontColor=ffffff)
 
-<!--
-**ysmndiyah/ysmndiyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+## Hi 👋, I'm **Al Yasmin Assa'diyah**
+### 🎓 D4 Teknik Informatika  
+### Universitas Logistik dan Bisnis Internasional
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### 🌿 About Me
+- 🎓 Mahasiswa **D4 Teknik Informatika**
+- 🏫 **Universitas Logistik dan Bisnis Internasional**
+- 💻 Tertarik pada **Web Development**
+- 🌱 Sedang belajar **Front-End & Back-End**
+
+---
+
+### 🤍 Connect with me
+<p>
+  <a href="https://instagram.com/vvvysmn" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-9DB2A6?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🛠 Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/HTML5-9DB2A6?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-9DB2A6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-9DB2A6?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-9DB2A6?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-9DB2A6?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-9DB2A6?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ysmndiyah&show_icons=true&theme=calm" />
+</p>
