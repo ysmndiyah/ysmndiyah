@@ -1,6 +1,6 @@
-<!-- Banner (Tetap mempertahankan estetika sage green kamu) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9DC08B&height=180&section=header&text=Al%20Yasmin%20Assa'diyah&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Informatics%20Engineering%20Student%20|%20Full-Stack%20%26%20GIS%20Developer&descAlignY=58&descSize=16" width="100%" />
+  <h1>Al Yasmin Assa'diyah</h1>
+  <p><b>Informatics Engineering (D4) Student • Full-Stack & GIS Developer</b></p>
 </div>
 
 <p align="center">
