@@ -1,21 +1,20 @@
 <div align="center">
   <h1>Al Yasmin Assa'diyah</h1>
   <p><b>Informatics Engineering (D4) Student • Full-Stack & GIS Developer</b></p>
-</div>
+</div>i
 
 <p align="center">
-  <a href="mailto:sakdiyahh845@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sakdiyahh845%40gmail.com-9DC08B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://instagram.com/vvvysmn" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%40vvvysmn-9DC08B?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://www.linkedin.com/in/al-yasmin-assa-diyah-b0b72a350/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Al%20Yasmin%20Assa'diyah-9DC08B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://medium.com/@alyasmin" target="_blank">
     <img src="https://img.shields.io/badge/Medium-%40alyasmin-9DC08B?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
-  <!-- Tambahkan link LinkedIn & Portfolio kamu di bawah ini -->
-  <a href="https://linkedin.com/in/username-kamu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-9DC08B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="mailto:sakdiyahh845@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sakdiyahh845%40gmail.com-9DC08B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/vvvysmn/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%40vvvysmn-9DC08B?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
