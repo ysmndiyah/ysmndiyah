@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Al Yasmin Assa'diyah</h1>
   <p><b>Informatics Engineering (D4) Student • Full-Stack & GIS Developer</b></p>
-</div>i
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/al-yasmin-assa-diyah-b0b72a350/" target="_blank">
